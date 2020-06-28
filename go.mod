@@ -1,1 +1,3 @@
-module github.com/golang/snappy
+module github.com/arnikola/snappy
+
+go 1.13
